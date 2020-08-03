@@ -1,0 +1,23 @@
+{
+  "name": "hello-cordova-plugin-camera",
+  "version": "0.0.2",
+  "description": "Cordova Test Camera Plugin for Outsystems",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "hello-cordova-plugin-camera",
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "repository": "github:greenb75/hello-cordova-plugin-camera",
+  "keywords": [
+    "cordova",
+    "camera",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "author": "JTS Minami",
+  "license": "MIT"
+}
