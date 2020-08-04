@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="hello-cordova-plugin-camera"
-    version="0.0.1">
+    version="0.0.3">
     <name>HelloCameraPlugin</name>
     <description>Hello Cordova Camera Plugin</description>
     <license>MIT</license>
@@ -10,8 +10,8 @@
     <repo>https://github.com/greenb75/hello-cordova-plugin-camera</repo>
 
     <engines>
-        <engine name="cordova" version=">=8.0.0"/>
-        <engine name="cordova-android" version=">=8.0.0" />
+        <engine name="cordova" version=">=6.5.0"/>
+        <engine name="cordova-android" version=">=6.5.0" />
         <engine name="cordova-ios" version=">=5.1.0" />
     </engines>
 

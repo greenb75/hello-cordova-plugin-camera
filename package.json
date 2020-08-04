@@ -1,6 +1,6 @@
 {
   "name": "hello-cordova-plugin-camera",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cordova Test Camera Plugin for Outsystems",
   "types": "./types/index.d.ts",
   "cordova": {
