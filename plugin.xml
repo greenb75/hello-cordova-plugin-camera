@@ -10,8 +10,8 @@
     <repo>https://github.com/greenb75/hello-cordova-plugin-camera</repo>
 
     <engines>
-        <engine name="cordova" version=">=9.0.0"/>
-        <engine name="cordova-android" version=">=9.0.0" />
+        <engine name="cordova" version=">=8.0.0"/>
+        <engine name="cordova-android" version=">=8.0.0" />
         <engine name="cordova-ios" version=">=5.1.0" />
     </engines>
 
